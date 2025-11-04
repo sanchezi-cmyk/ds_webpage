@@ -1,7 +1,8 @@
-# ds_webpage
+# BBMB Major from Whitman College
 
-## Soon to be BBMB Major with Data Science minor (?)
+## A little about me
 
-This is just a test.
+Had the opportunity to finish high school in Germany thanks to a scholarship from UWC Robert Bosch College from 2020 to 2022. After that, I went to Whitman College in Walla Walla, Washington, where I studied Biochemistry, Biophysics, and Molecular Biology. 
 
-### All homework shall be done on time.
+### Jobs and researches:
+
